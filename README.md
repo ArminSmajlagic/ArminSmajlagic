@@ -8,7 +8,7 @@
 - 📧 smajlagicarmin@gmail.com
   
 <a href="https://arminsmajlagic.github.io/smajla/">Portfolio - personal site</a>
-| <a href="www.linkedin.com/in/armin-smajlagić">LinkedIn</a>
+| <a href="www.linkedin.com/in/armin-smajlagic">LinkedIn</a>
 
 # About Me
 
